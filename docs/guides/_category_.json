@@ -1,0 +1,10 @@
+{
+  "label": "가이드",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "상세 가이드 문서입니다."
+  }
+}
+
+
